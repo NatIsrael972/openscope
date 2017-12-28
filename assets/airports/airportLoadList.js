@@ -570,13 +570,13 @@ window.AIRPORT_LOAD_LIST = (function() { // eslint-disable-line wrap-iife
         //     premium: false,
         //     wip: true
         // },
-        // {
-        //     icao: 'wsss',
-        //     level: 'hard',
-        //     name: 'Singapore Changi International Airport',
-        //     premium: false,
-        //     wip: true
-        // },
+           {
+               icao: 'wsss',
+               level: 'hard',
+               name: 'Singapore Changi International Airport',
+               premium: false,
+               wip: true
+           },
         // {
         //     icao: 'zspd',
         //     level: 'hard',
